@@ -1,5 +1,10 @@
-V6.3:
-- Обновил приложение "Контакты" до версии 15.85.10.
-- Обновил приложение "Телефон"(InCaLLui) до версии 15.30.4
-- Обновил приложение "Сообщения"(Mms) до версии 15.100.0
-- Обновил приложение "BlackListApp" до версии 15.45.0
+Update Apps Versions:
+-  Update "Contacts" to version 15.90.5
+-  Update "InCallUI" to version 15.30.4
+-  Update "Mms" to version 15.72.20
+-  Update "NumberRecognition" to version 15.20.30
+
+Add sysconfig
+Add configs permissions
+Update module config
+Adaptation to KernelSU
