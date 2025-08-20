@@ -3,6 +3,11 @@
 
 This is a module for OnePlus/Realme owners, for Color Dialer/Mms functionality after converting to Global ROMs Android 15.
 
+### KernelSU
+
++ Minimal KernelSU version: 10940
++ Minimal KernelSU Manager (ksud) version: 11575
+
 ### Magisk
 
 + Minimal version: 26402
