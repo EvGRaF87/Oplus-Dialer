@@ -1,5 +1,5 @@
 # Oplus-Dialer
-<a href="https://t.me/OnePlus_11_12_13"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a>
+<a href="https://t.me/OnePlus_12_13_15"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a>
 
 This is a module for OnePlus/Realme owners, for Color Dialer/Mms functionality after converting to Global ROMs Android 15.
 
