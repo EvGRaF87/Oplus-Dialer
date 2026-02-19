@@ -15,4 +15,5 @@ V6.5:
 _____________________
 -  Updated module config
 -  Updated the installer script structure
+-  Updated Mms to version 16.30.10
 -  Updated to universal module for any OxygenOS 16
