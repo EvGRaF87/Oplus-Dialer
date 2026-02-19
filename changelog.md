@@ -1,4 +1,5 @@
 V6.4:
+_____________________
 Update Apps Versions:
 -  Update "Contacts" to version 15.90.5
 -  Update "InCallUI" to version 15.30.4
@@ -11,6 +12,7 @@ Update module config
 Adaptation to KernelSU
 
 V6.5:
+_____________________
 -  Updated module config
 -  Updated the installer script structure
 -  Updated to universal module for any OxygenOS 16
