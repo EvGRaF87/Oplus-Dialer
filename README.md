@@ -3,7 +3,7 @@
 
 This is a module for OnePlus/Realme owners, for Color Dialer/Mms functionality after converting to Global ROMs Android 15 / 16.
 
-![6199](https://github.com/user-attachments/assets/f2073e8c-2edf-4638-b135-c918976edbd6)
+![6210](https://github.com/user-attachments/assets/79979554-c232-408b-9caf-075df78170b9)
 
 
 ### KernelSU
